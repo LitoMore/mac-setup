@@ -12,7 +12,7 @@ iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Mac
 
 Download from https://iterm2.com.
 
-### Xcode Commandline Tools
+### Xcode Command Line Tools
 
 This brings you some build tools such as the Apple LLVM compiler and Make. These tools make it easy to install open source software or develop on UNIX within terminal. macOS can automatically download these tools the first time you try to build software.
 
@@ -20,7 +20,7 @@ See the **Other tools included in macOS** section in https://developer.apple.com
 
 Use `xcode-select --install` to install.
 
-Alternatively, download the **Command Line Tools for Xcode** from [App Developer](https://developer.apple.com/download/all/) page.
+Alternatively, download the **Command Line Tools for Xcode** from [Apple Developer](https://developer.apple.com/download/all/) page.
 
 _Note: You should download the lastet non-beta version._
 
