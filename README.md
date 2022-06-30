@@ -91,6 +91,8 @@ You can find some other installation methods and its documentation from https://
 
 ### zsh-syntax-highlighting
 
+This provides syntax highlighting for the shell zsh. It enables highlighting of commands whilst they are typed at a zsh prompt into an interactive terminal.
+
 Clone this tool to Oh My Zsh's plugins directory:
 
 ```sh
