@@ -22,7 +22,7 @@ Use `xcode-select --install` to install.
 
 Alternatively, download the **Command Line Tools for Xcode** from [Apple Developer](https://developer.apple.com/download/all/) page.
 
-_Note: You should download the lastet non-beta version._
+_Note: You should download the latest non-beta version._
 
 ### Z shell
 
