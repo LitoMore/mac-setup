@@ -2,7 +2,7 @@
 
 How do I setup my macOS
 
-## Tools and configurations
+## Essential tools and configurations
 
 _Please follow these steps below in order._
 
@@ -10,7 +10,7 @@ _Please follow these steps below in order._
 
 iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.14 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
 
-Download from https://iterm2.com.
+Download it from https://iterm2.com.
 
 ### Xcode Command Line Tools
 
@@ -127,6 +127,31 @@ plugins=( [plugins...] autojump)
 
 See https://github.com/wting/autojump for more details.
 
+## Recommended tools and configurations
+
+### Alfred
+
+Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
+
+Download it from https://www.alfredapp.com.
+
+### Magnet
+
+Every time you multitask with many apps open, you need all the windows arranged accordingly. Magnet makes this process swift and easy.
+
+Download it from https://apps.apple.com/us/app/magnet/id441258766.
+
+### Userscripts
+
+Userscripts is an open source Safari extension that lets you save and run arbitrary bits of JavaScript (and CSS) code for the websites you visit.
+
+Download it from https://apps.apple.com/us/app/userscripts/id1463298887.
+
+See https://github.com/quoid/userscripts for more details.
+
 ## License
 
 CC0-1.0
+
+
+https://www.data.ai/apps/ios/app/441258766/details
