@@ -34,6 +34,8 @@ See https://support.apple.com/en-us/HT208050.
 
 ### Oh My Zsh
 
+It's a delightful, open source, community-driven framework for managing your Zsh configuration.
+
 Follow https://ohmyz.sh to install.
 
 ### Enable syntax for Vim
@@ -44,11 +46,13 @@ echo "syntax on" >> ~/.vimrc
 
 ### Homebrew
 
+It's a free and open-source software package management system that simplifies the installation of software.
+
 Follow https://brew.sh to install.
 
 ### Fira Code
 
-Font Code is a free monospaced font containing ligatures for common programming multi-charactor combinations.
+It's a free monospaced font containing ligatures for common programming multi-charactor combinations.
 
 See https://github.com/tonsky/FiraCode for more details.
 
@@ -61,7 +65,7 @@ brew install --cask font-fira-code
 
 ### Pure
 
-Pure is a pretty, minimal and fast ZSH prompt.
+It's a pretty, minimal and fast ZSH prompt.
 
 Run these commands below to install:
 
