@@ -152,6 +152,3 @@ See https://github.com/quoid/userscripts for more details.
 ## License
 
 CC0-1.0
-
-
-https://www.data.ai/apps/ios/app/441258766/details
