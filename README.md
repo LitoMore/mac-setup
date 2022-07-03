@@ -54,14 +54,14 @@ Follow https://brew.sh to install.
 
 It's a free monospaced font containing ligatures for common programming multi-charactor combinations.
 
-See https://github.com/tonsky/FiraCode for more details.
-
 Run these commands below to install:
 
 ```sh
 brew tap homebrew/cask-fonts
 brew install --cask font-fira-code
 ```
+
+See https://github.com/tonsky/FiraCode for more details.
 
 ### Pure
 
@@ -134,6 +134,12 @@ See https://github.com/wting/autojump for more details.
 Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
 
 Download it from https://www.alfredapp.com.
+
+### GitHub Desktop
+
+Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow.
+
+Download it from https://desktop.github.com.
 
 ### Magnet
 
