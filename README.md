@@ -109,16 +109,10 @@ See https://github.com/zplug/zplug for more details.
 
 This provides syntax highlighting for the shell zsh. It enables highlighting of commands whilst they are typed at a zsh prompt into an interactive terminal.
 
-Clone this tool to Oh My Zsh's plugins directory:
+Install the plugin with `zplug`:
 
 ```sh
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
-```
-
-Activate the plugin in `~/.zshrc`:
-
-```sh
-plugins=( [plugins...] zsh-syntax-highlighting)
+zplug add "zsh-users/zsh-syntax-highlighting"
 ```
 
 See https://github.com/zsh-users/zsh-syntax-highlighting for more details.
