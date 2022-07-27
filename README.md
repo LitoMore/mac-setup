@@ -88,6 +88,22 @@ prompt pure
 ```
 
 You can find some other installation methods and its documentation from https://github.com/sindresorhus/pure.
+### zplug
+
+A next-generation plugin manager for zsh.
+
+```sh
+brew install zplug
+```
+
+In order to use zplug, please add the following to your `.zshrc`:
+
+```sh
+export ZPLUG_HOME=/opt/homebrew/opt/zplug
+source $ZPLUG_HOME/init.zsh
+```
+
+See https://github.com/zplug/zplug for more details.
 
 ### zsh-syntax-highlighting
 
