@@ -12,6 +12,12 @@ iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Mac
 
 Download it from https://iterm2.com.
 
+### Warp
+
+Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+
+Download it from https://warp.dev.
+
 ### Xcode Command Line Tools
 
 This brings you some build tools such as the Apple LLVM compiler and Make. These tools make it easy to install open source software or develop on UNIX within terminal. macOS can automatically download these tools the first time you try to build software.
