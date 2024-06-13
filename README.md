@@ -94,6 +94,7 @@ prompt pure
 ```
 
 You can find some other installation methods and its documentation from https://github.com/sindresorhus/pure.
+
 ### zplug
 
 A next-generation plugin manager for zsh.
@@ -145,31 +146,11 @@ See https://github.com/wting/autojump for more details.
 
 ## Recommended tools and configurations
 
-### Alfred
-
-Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
-
-Download it from https://www.alfredapp.com.
-
-### GitHub Desktop
-
-Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow.
-
-Download it from https://desktop.github.com.
-
-### Magnet
-
-Every time you multitask with many apps open, you need all the windows arranged accordingly. Magnet makes this process swift and easy.
-
-Download it from https://apps.apple.com/us/app/magnet/id441258766.
-
-### Userscripts
-
-Userscripts is an open source Safari extension that lets you save and run arbitrary bits of JavaScript (and CSS) code for the websites you visit.
-
-Download it from https://apps.apple.com/us/app/userscripts/id1463298887.
-
-See https://github.com/quoid/userscripts for more details.
+- [Alfred](https://www.alfredapp.com) - Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
+- [Raycast](https://raycast.com) - A collection of powerful productivity tools all within an extendable launcher. Fast, ergonomic and reliable.
+- [GitHub Desktop](https://desktop.github.com) - Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow.
+- [Magnet](https://apps.apple.com/us/app/magnet/id441258766) - Every time you multitask with many apps open, you need all the windows arranged accordingly. Magnet makes this process swift and easy.
+- [Userscripts](https://github.com/quoid/userscripts) - Userscripts is an open source Safari extension that lets you save and run arbitrary bits of JavaScript (and CSS) code for the websites you visit.
 
 ## License
 
