@@ -144,6 +144,41 @@ plugins=( [plugins...] autojump)
 
 See https://github.com/wting/autojump for more details.
 
+## Git
+
+### .gitconfig
+
+```conf
+[gpg]
+	program = gpg
+[commit]
+	gpgsign = true
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset %C(bold blue)%an%Creset%C(yellow)%d%Creset %s %Cgreen(%cr)' --abbrev-commit
+	st = status
+	br = branch
+	co = checkout
+	sco = sparse-checkout
+	ci = commit
+	deepclean = clean -dfX
+[core]
+	excludesfile = /Users/litomore/.gitignore-global
+[pull]
+	ff = only
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+[remote "origin"]
+	prune = true
+[pager]
+	branch = false
+[diff "lockb"]
+	textconv = bun
+	binary = true
+```
+
 ## Recommended tools and configurations
 
 - [Alfred](https://www.alfredapp.com) - Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
