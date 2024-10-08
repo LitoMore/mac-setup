@@ -124,6 +124,14 @@ zplug add "zsh-users/zsh-syntax-highlighting"
 
 See https://github.com/zsh-users/zsh-syntax-highlighting for more details.
 
+### bat
+
+A cat(1) clone with syntax highlighting and Git integration.
+
+```sh
+brew install bat
+```
+
 ### autojump
 
 `autojump` is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line.
