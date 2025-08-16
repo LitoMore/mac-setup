@@ -1,0 +1,107 @@
+{
+  "[markdown]": {
+    "editor.wordWrap": "off"
+  },
+  "[markdown][json][jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "css.validate": false,
+  "editor.accessibilitySupport": "off",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "'Maple Mono NF CN Light', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09', 'ss10', 'zero', 'onum'",
+  "editor.formatOnSave": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.quickSuggestionsDelay": 0,
+  "editor.renderControlCharacters": true,
+  "editor.renderWhitespace": "none",
+  "editor.showDeprecated": true,
+  "editor.smoothScrolling": true,
+  "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "wxml": "html"
+  },
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmPasteNative": false,
+  "explorer.fileNesting.enabled": true,
+  "explorer.sortOrder": "type",
+  "extensions.ignoreRecommendations": true,
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.plim": "slim",
+    "*.strings": "plist",
+    "*.vue": "html",
+    "*.wpy": "vue",
+    "*.wxs": "javascript",
+    "*.wxss": "css"
+  },
+  "files.insertFinalNewline": true,
+  "git.autofetch": true,
+  // "editor.fontFamily": "FiraCode-Retina, 'SimpleIconsFit', Menlo, Monaco, 'Courier New', monospace",
+  // "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+  "git.blame.editorDecoration.enabled": true,
+  // "git.blame.statusBarItem.enabled": true,
+  "git.ignoreMissingGitWarning": true,
+  "git.openRepositoryInParentFolders": "always",
+  "github.copilot.enable": {
+    "*": true,
+    "javascript": true,
+    "markdown": true,
+    "plaintext": false,
+    "scminput": false,
+    "typescript": true,
+    "typescriptreact": true,
+    "yaml": false
+  },
+  "javascript.format.enable": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "javascript.validate.enable": true,
+  "prettier.enable": true,
+  "scss.validate": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "settingsSync.ignoredExtensions": ["equinusocio.vsc-material-theme"],
+  "settingsSync.ignoredSettings": [],
+  "sort-json.settings.objectSortType": "Key",
+  "telemetry.telemetryLevel": "off",
+  "terminal.integrated.macOptionIsMeta": true,
+  "typescript.check.npmIsInstalled": false,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "typescript.validate.enable": true,
+  "window.autoDetectColorScheme": true,
+  "window.titleBarStyle": "custom",
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#ffcc00",
+    "statusBar.foreground": "#000",
+    "statusBar.noFolderBackground": "#00ccff",
+    "statusBarItem.remoteBackground": "#00ccff",
+    "statusBarItem.remoteForeground": "#fff",
+    "tab.activeBorder": "#fbfbfb",
+    "titleBar.activeBackground": "#ffcc00",
+    "titleBar.activeForeground": "#000",
+    "titleBar.activeFortabeground": "#000",
+    "titleBar.inactiveBackground": "#ffcc00cc",
+    "titleBar.inactiveForeground": "#000"
+  },
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.editor.wrapTabs": true,
+  "workbench.editorAssociations": {
+    "*.copilotmd": "vscode.markdown.preview.editor",
+    "*.svg": "default"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.list.smoothScrolling": true,
+  "workbench.preferredDarkColorTheme": "GitHub Dark",
+  "workbench.preferredLightColorTheme": "GitHub Dark",
+  "workbench.settings.editor": "json",
+  "workbench.sideBar.location": "left",
+  "workbench.startupEditor": "newUntitledFile",
+  "xo.enable": false
+}
