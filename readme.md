@@ -162,13 +162,15 @@ See https://github.com/wting/autojump for more details.
 [commit]
 	gpgsign = true
 [alias]
-	lg = log --color --graph --pretty=format:'%Cred%h%Creset %C(bold blue)%an%Creset%C(yellow)%d%Creset %s %Cgreen(%cr)' --abbrev-commit
-	st = status
 	br = branch
-	co = checkout
-	sco = sparse-checkout
 	ci = commit
-	deepclean = clean -dfX
+	co = checkout
+	cp = cherry-pick
+	dc = clean -dfX
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset %C(bold blue)%an%Creset%C(yellow)%d%Creset %s %Cgreen(%cr)' --abbrev-commit
+	ll = log --color --no-merges --author-date-order --pretty=format:'%Cred%h%Creset %C(bold blue)%an%Creset%C(yellow)%d%Creset %s %Cgreen(%cr)' --abbrev-commit
+	sco = sparse-checkout
+	st = status
 [core]
 	excludesfile = /Users/litomore/.gitignore-global
 [pull]
