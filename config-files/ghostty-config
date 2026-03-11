@@ -1,0 +1,19 @@
+theme = litomore
+
+font-family = "Maple Mono NF CN ExtraLight"
+font-size = 12
+
+cursor-color = #aaa
+cursor-style = bar
+cursor-style-blink = false
+
+shell-integration-features = no-cursor
+macos-titlebar-style = hidden
+macos-option-as-alt = left
+
+window-height = 25
+window-width = 140
+window-padding-x = 5
+
+adjust-cell-width = -10%
+adjust-cursor-thickness = 100%
