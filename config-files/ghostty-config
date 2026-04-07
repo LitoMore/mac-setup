@@ -7,13 +7,15 @@ cursor-color = #aaa
 cursor-style = bar
 cursor-style-blink = false
 
+adjust-cursor-thickness = 100%
 shell-integration-features = no-cursor
 macos-titlebar-style = hidden
 macos-option-as-alt = left
+unfocused-split-opacity = 1
 
 window-height = 25
 window-width = 140
 window-padding-x = 5
 
-adjust-cell-width = -10%
-adjust-cursor-thickness = 100%
+custom-shader = ~/.config/ghostty/shaders/water.glsl
+custom-shader = ~/.config/ghostty/shaders/bloom.glsl
