@@ -1,21 +1,24 @@
-theme = litomore
+theme = "litomore-v3"
 
 font-family = "Maple Mono NF CN ExtraLight"
 font-size = 12
-
-cursor-color = #aaa
-cursor-style = bar
-cursor-style-blink = false
-
-adjust-cursor-thickness = 100%
-shell-integration-features = no-cursor
-macos-titlebar-style = hidden
-macos-option-as-alt = left
-unfocused-split-opacity = 1
 
 window-height = 25
 window-width = 140
 window-padding-x = 5
 
-custom-shader = ~/.config/ghostty/shaders/water.glsl
-custom-shader = ~/.config/ghostty/shaders/bloom.glsl
+cursor-style = bar
+cursor-style-blink = false
+
+adjust-cursor-thickness = 100%
+
+shell-integration-features = no-cursor
+macos-titlebar-style = hidden
+macos-option-as-alt = true
+
+#background-opacity = 0.5
+#background-blur-radius = 8
+
+#custom-shader = ~/.config/ghostty/shaders/bettercrt.glsl
+#custom-shader = ~/.config/ghostty/shaders/water.glsl
+#custom-shader = ~/.config/ghostty/shaders/bloom.glsl
