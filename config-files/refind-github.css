@@ -1,5 +1,6 @@
 :root {
   --rgh-heat-color: orange !important;
+  --fontStack-monospace: "Maple Mono NF CN" !important;
 }
 
 [class*="OverviewHeader-module__Box--"] {
@@ -14,7 +15,10 @@
   display: none;
 }
 
-code {
+li[data-testid="commit-row-item"] code,
+div[class^="CommitHeader-module__commitMessageContainer"] code,
+a[class*="PinnedIssue-module__Link"] code,
+[class*="Table-module__Box"] code {
   border: 1px solid color-mix(in srgb, currentColor 20%, transparent);
   padding: 0 3px;
   border-radius: 5px;
