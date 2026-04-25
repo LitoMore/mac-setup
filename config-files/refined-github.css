@@ -1,32 +1,33 @@
 :root {
-  --rgh-heat-color: orange !important;
-  --fontStack-monospace: "Maple Mono NF CN" !important;
-  x--fontstack-sansserif: Avenir;
+	--rgh-heat-color: orange !important;
+	--fontStack-monospace: 'Maple Mono NF CN' !important;
+	x--fontStack-sansSerif: Avenir;
 }
 
 [class*="OverviewHeader-module__Box--"] {
-  display: none !important;
+	display: none !important;
 }
 
 [class*="MarkdownInput-module__inputWrapper"] {
-  flex-direction: column;
+	flex-direction: column;
 }
 
 .rgh-private-org {
-  display: none;
+	display: none;
 }
 
 li[data-testid="commit-row-item"] code,
-div[class^="CommitHeader-module__commitMessageContainer"] code,
-a[class*="PinnedIssue-module__Link"] code,
+[class^="CommitHeader-module__commitMessageContainer"] code,
+[class^="LatestCommit-module__Box"] code,
+[class*="PinnedIssue-module__Link"] code,
 [class*="Table-module__Box"] code,
 [class*="prc-PageHeader-Title"] code,
 .TimelineItem code code,
 .TimelineItem-body .Box code,
 .markdown-body code,
 .commit-ref {
-  border: 1px solid color-mix(in srgb, currentColor 20%, transparent);
-  padding: 0 3px !important;
-  border-radius: 5px;
-  background-color: color-mix(in srgb, currentColor 5%, transparent);
+	border: 1px solid color-mix(in srgb, currentColor 20%, transparent);
+	padding: 0 3px !important;
+	border-radius: 5px;
+	background-color: color-mix(in srgb, currentColor 5%, transparent)
 }
