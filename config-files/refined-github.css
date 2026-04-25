@@ -20,6 +20,7 @@ li[data-testid="commit-row-item"] code,
 div[class^="CommitHeader-module__commitMessageContainer"] code,
 a[class*="PinnedIssue-module__Link"] code,
 [class*="Table-module__Box"] code,
+[class*="LatestCommit-module__Box"] code,
 .TimelineItem code,
 .markdown-body code,
 .commit-ref {
