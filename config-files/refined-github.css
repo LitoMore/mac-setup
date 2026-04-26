@@ -26,6 +26,7 @@ li[data-testid="commit-row-item"] code,
 .TimelineItem-body .Box code,
 .markdown-body code,
 .commit-ref {
+	display: inline-block;
 	border: 1px solid color-mix(in srgb, currentColor 20%, transparent);
 	padding: 0 3px !important;
 	border-radius: 5px;
