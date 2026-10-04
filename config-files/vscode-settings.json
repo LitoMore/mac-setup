@@ -87,7 +87,7 @@
     "titleBar.activeFortabeground": "#000",
     "titleBar.border": "#ffcc00",
     "titleBar.inactiveBackground": "#ffcc00cc",
-    "titleBar.inactiveForeground": "#000",
+    "titleBar.inactiveForeground": "#000"
   },
   "workbench.colorTheme": "GitHub Dark",
   "workbench.editor.empty.hint": "hidden",
